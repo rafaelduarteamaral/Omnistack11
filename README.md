@@ -1,6 +1,6 @@
 🚀Esse projeto foi desenvolvido com as seguintes tecnologias:🚀
 
-Node.js
+Node.js 
 
 React
 
@@ -17,3 +17,5 @@ Sqlite
 Insomnia
 
 Cors
+
+✨🐢🚀✨
